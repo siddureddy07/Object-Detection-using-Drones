@@ -101,7 +101,8 @@ Annotations for 1st image:
 708,471,74,33,1,4,0,1
 
 1st Image:
- ![image](https://user-images.githubusercontent.com/90500013/206404598-fae3b7f8-6adb-481b-b2ed-09b775617787.png)
+
+![image](https://user-images.githubusercontent.com/90500013/206404598-fae3b7f8-6adb-481b-b2ed-09b775617787.png)
 
 
 1st Image with some annotations plotted
